@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 25px;
+}
+
+canvas{
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px snow;
+    margin-top: 130px;
+    border: 2px solid lightpink;
+}
+
+.footer{
+    width: 100%;
+    background-color: lightpink;
+    color: magenta;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 2;
+}
